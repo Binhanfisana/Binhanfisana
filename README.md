@@ -1,6 +1,8 @@
-# Olá, sou Binhan 👋
+# Olá, sou Binhan
 
-Graduado em Engenharia de Computação pela UNILAB e mestrando em Ciência da Computação na UFSCar. Desenvolvo projetos de software e continuo aprendendo novas tecnologias.
+- Engenheiro da Computação pela UNILAB
+- Mestrando em Ciência da Computação na UFSCar.
+ Desenvolvo projetos de software e continuo aprendendo novas tecnologias.
 
 ## Ferramentas e tecnologias
 
